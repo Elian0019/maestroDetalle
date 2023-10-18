@@ -15,8 +15,8 @@ public function __construc()
 public function Conexion()
 {
 	$this->servidor = "localhost";
-	$this->usuario = "root";
-	$this->password = "";
+	$this->usuario = "tecno";
+	$this->password = "987654321";
 	$this->basedatos = "bd_ventas";
 	
 }
